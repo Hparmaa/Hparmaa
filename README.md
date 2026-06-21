@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Hparmaa/Hparmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Henrique Parma
 
-Here are some ideas to get you started:
+I’m a Computer Science student from Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About me
+
+- 🔭 I’m currently working on electronics and PCB design 
+- 🌱 I’m currently learning C and C++
+- ⚡ I enjoy building hardware and software projects
+
+---
+
+## 🛠️ Learning
+
+- C
+- C++
+- PCB Design & KiCad 
+
+---
+
+## 📫 Contact
+
+- Linkeding: www.linkedin.com/in/henrique-castro-parma
+- GitHub: https://github.com/Hparmaa
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Hparmaa&show_icons=true)
