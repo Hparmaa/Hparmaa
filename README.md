@@ -2,8 +2,10 @@
 
 My name is Henrique Parma
 
-I’m a Computer Science student from Brazil
-
+I’m a Computer Science student from Brazil 
+with a background in:
+- Technical course in Electronics ⚡
+- Technical course in Administration 📊
 ---
 
 ## 🚀 About me
