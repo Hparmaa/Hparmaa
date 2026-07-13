@@ -2,17 +2,16 @@
 
 My name is Henrique Parma
 
-I’m a Computer Science student from Brazil 
+I’m a Computer Science student
 with a technical background in:
-- Electronics ⚡
-- Administration 📊
+- Electronics 
+- Administration 
 ---
 
 ## 🚀 About me
 
-- 🔭 I’m currently working on electronics and PCB design 
-- 🌱 I’m currently learning C and C++
-- ⚡ I enjoy building hardware and software projects
+-  I’m currently working on electronics and PCB design 
+-  I enjoy building hardware and software projects
 
 ---
 
