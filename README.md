@@ -15,12 +15,6 @@ with a technical background in:
 
 ---
 
-## 🛠️ Learning
-
-- C
-- C++
-- PCB Design & KiCad 
-
 ---
 
 ## 📫 Contact
